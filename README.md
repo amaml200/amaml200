@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**amaml200/amaml200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Abubakar Muhammad Adam 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 📍 Born and raised in Kano State, Nigeria.
+- 🕌 I am a Muslim and also a medical student at Bayero University Kano.
+- 💻 Despite the busy schedule of medical school and its bulky boring stuff, I find time to code just for fun and to relieve stress. Who knows, maybe one day I'll develop a complex medical software.
+- 😃 I’m not that great but I vibe with everyone.
+- 🧘 Fun Fact: I like staying alone.
+
+## 🔭 Current Projects
+- something challenging
+
+## 🌱 Interests
+- Listening to the Quran
+- staying alone
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Web Development and Design
+- Blockchain
+
+## 🛠️ Technologies & Tools
+- anything tricky 😃
+
+## 📫 How to Reach Me
+- Twitter: [@sadiq_m_adam](https://twitter.com/sadiq_m_adam)
+
+
+  Thank you for visiting my profile!
